@@ -40,7 +40,7 @@
     "wru": "^0.3.0"
   },
   "dependencies": {
-    "lightercollective": "^0.0.0"
+    "lightercollective": "^0.1.0"
   },
   "collective": {
     "type": "opencollective",
