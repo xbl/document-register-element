@@ -45,6 +45,6 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/document-register-element",
-    "logo": "https://opencollective.com/document-register-element/logo.txt"
+    "logo": "logo.txt"
   }
 }
